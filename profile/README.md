@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://get-install-osx.github.io/.github/camo-studio-mac" target="_blank">
+  <a href="https://mac-software-apps.github.io/.github/camo-studio-mac" target="_blank">
     <img src="https://img.shields.io/badge/GET_CAMO_STUDIO_FOR_MAC-%F0%9F%92%BE-blue?style=for-the-badge&logo=apple&logoColor=white" alt="Get Camo Studio for Mac">
   </a>
 </div>
